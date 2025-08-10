@@ -1,4 +1,4 @@
-# Exploring the Growth and Impact of UPI & IMPS in India
+# Predictive Trend Analysis for Marketing
 
 ## Project Overview
 
